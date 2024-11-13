@@ -1,0 +1,46 @@
+.menu .btn:hover{
+    background-color:green!important;
+color:white !important;
+}
+.dishes {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+.main {
+    margin: 0%;
+    padding: 0%;
+    display:flex;
+}
+.cook {
+    margin:0%;
+    padding:0%;
+    display:flex;
+}
+.{
+    display: flex;
+}
+.master {
+    margin:0%;
+    padding:0%;
+    display:flex;
+    margin-left:99px;
+}
+.master .card:hover {
+    background-color:green!important;
+    color:white !important;  
+}
+.hii .card:hover{
+    background-color: green;
+    color: aliceblue;
+}
+.row .card:hover {
+    background-color:goldenrod;
+}
+.last ::first-letter {
+    color: red;
+}
+.start .btn:hover {
+    background-color:red!important;
+    color:white !important;
+}

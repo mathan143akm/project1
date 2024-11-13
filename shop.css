@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.bg {
+    width:100%;
+    height:1349px;
+    background-image: url(pexels-valeriya-1199960.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.cart {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.cart2 {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.cart3 {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.cart4 {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
